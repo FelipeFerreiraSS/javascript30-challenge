@@ -1,1 +1,1 @@
-# javascript30-challenge
+# Javascript30 Challenge
